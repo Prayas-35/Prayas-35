@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prayas Pal</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student 🖥️</h3>
 
-- 🌱 I’m currently learning **Python, Spring Framework, Data Science**
+- 🌱 I’m currently learning **Python, Data Science, Spring Framework**
 
 - 📫 How to reach me **prayaspal04@gmail.com**
 
