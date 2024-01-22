@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prayas Pal</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student 🖥️</h3>
 
-- 🌱 I’m currently learning **Spring Framework, Python, Data Science**
+- 🌱 I’m currently learning **Python, Spring Framework, Data Science**
 
 - 📫 How to reach me **prayaspal04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prayas pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayas pal" height="30" width="40" /></a>
-<a href="https://kaggle.com/prayas pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prayas pal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prayas-pal-722a212a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prayas-pal-722a212a7" height="30" width="40" /></a>
+<a href="https://kaggle.com/prayas35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prayas35" height="30" width="40" /></a>
 <a href="https://instagram.com/_ultrode_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ultrode_" height="30" width="40" /></a>
 </p>
 
