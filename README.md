@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayas Pal</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student 🖥️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayas-35&label=Profile%20views&color=0eb448&style=plastic" alt="prayas-35" /> </p>
-
 - 🌱 I’m currently learning **Python, Data Science, Spring Framework**
 
 - 📫 How to reach me **prayaspal04@gmail.com**
