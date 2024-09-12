@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayas-35&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="prayas-35" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayas-35&show_icons=true&theme=gruvbox&locale=en" alt="prayas-35" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prayas-35&show_icons=true&theme=dracula&locale=en" alt="prayas-35" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayas-35&theme=dark" alt="prayas-35" /></p>
