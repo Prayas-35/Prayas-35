@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **Python, Data Science, Spring Framework**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Prayas-35](https://github.com/Prayas-35)
+
 - 📫 How to reach me **prayaspal04@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/prayaspal](https://www.linkedin.com/in/prayaspal/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
