@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prayas Pal</h1>
 <h3 align="center">B.Tech Computer Science Engineering Student 🖥️</h3>
 
-- 🌱 I’m currently learning **Python, Data Science, Spring Framework**
+- 🌱 I’m currently learning **Python, Web3, Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prayas-35](https://github.com/Prayas-35)
 
