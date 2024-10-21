@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prayaspal04@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/prayaspal/](https://www.linkedin.com/in/prayaspal/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/prayaspal/](https://www.linkedin.com/in/prayaspal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
